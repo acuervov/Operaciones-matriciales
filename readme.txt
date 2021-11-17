@@ -6,4 +6,6 @@ Para hacer correr este programa se debe ejecutar el comando bash Codigo/run.sh, 
 
 Si se quiere compilar y ejecutar un programa en especifico se puede hacer con el comando make Codigo/"operacion"_"metodo".txt
 
+Se pueden ver los resultados del estudio en el archivo proyecto_intermedio_grupo_5.pdf
+
 
