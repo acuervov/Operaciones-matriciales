@@ -1,0 +1,24 @@
+2 2.3e-05 1.65217
+ # Promedio matriz es : 4.1416
+4 1.5e-05 14.0667
+ # Promedio matriz es : 45.0177
+8 2.1e-05 74.1429
+ # Promedio matriz es : 4430.2
+16 0.000103 125.097
+ # Promedio matriz es : 4.20413e+07
+32 0.000651 154.7
+ # Promedio matriz es : 3.78521e+15
+64 0.004514 183.148
+ # Promedio matriz es : 3.06845e+31
+128 0.028353 246.389
+ # Promedio matriz es : 2.01639e+63
+256 0.244293 233.074
+ # Promedio matriz es : 8.70741e+126
+512 2.42638 192.456
+ # Promedio matriz es : 1.62374e+254
+1024 20.6868 181.411
+ # Promedio matriz es : 5.64639e+508
+2048 250.286 121.823
+ # Promedio matriz es : 6.8278e+1017
+4096 3449.33 75.9644
+ # Promedio matriz es : 9.98389e+2035
